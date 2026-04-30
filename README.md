@@ -3,5 +3,5 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Completion Date |	Tools | Project Description |
 |---|---|---|---|
-| 🚗 [Student Performance](https://github.com/brewer-services/Student-Performance/blob/main/EDA.ipynb)  | April 30 2026 | Jupyter Notebook / Python | This project explores the Student Performance Dataset from the UCI Machine Learning Repository to understand which academic, social, and lifestyle factors are associated with student's final grades. |
+| 💯 [Student Performance](https://github.com/brewer-services/Student-Performance/blob/main/EDA.ipynb)  | April 30 2026 | Jupyter Notebook / Python | This project explores the Student Performance Dataset from the UCI Machine Learning Repository to understand which academic, social, and lifestyle factors are associated with student's final grades. |
 
